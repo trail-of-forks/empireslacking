@@ -48,6 +48,10 @@
     "SLACKIN_ACCENT": {
       "description": "Accent color to use instead of a theme default",
       "required": false
+    },
+    "SLACKIN_PAGE_DEPLAY": {
+      "description": "Sleep time in milliseconds between making requests to Slack API",
+      "required": false
     }
   }
 }
